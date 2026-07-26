@@ -10,6 +10,9 @@ Baseline is a dynamic web platform designed to represent a premier tennis club a
 
 Experience Baseline in action at **[https://baseline-eta-one.vercel.app/](https://baseline-eta-one.vercel.app/)**
 
+<img width="947" height="449" alt="image" src="https://github.com/user-attachments/assets/855df3fb-ea19-49e1-abd3-df5b17b0fc80" />
+
+
 The live preview is deployed on **Vercel** and showcases the full interactive experience of the tennis club platform. Visit to see:
 - ✨ Responsive design in action across all devices
 - ⚡ Fast performance with optimized assets
