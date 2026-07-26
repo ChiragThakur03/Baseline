@@ -127,9 +127,6 @@ The project uses **Vite** with React and includes ESLint for code quality. Devel
 
 Contributions are welcome! Please feel free to open issues or submit pull requests to improve the project.
 
-## License
-
-This project is provided as-is for educational and development purposes.
 
 ---
 
