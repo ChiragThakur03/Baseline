@@ -4,7 +4,18 @@ A modern web application for **Baseline Tennis Club & Academy**, showcasing prof
 
 ## Overview
 
-Baseline is a dynamic web platform designed to represent a premier tennis club and academy. Built with cutting-edge web technologies, it provides an engaging digital presence for showcasing facilities, programs, and community events.
+Baseline is a dynamic web platform designed to represent a premier tennis club and academy. Built with cutting-edge web technologies, it provides an engaging digital presence for showcasing facilities, coaching programs, and community engagement.
+
+## 🌐 Live Preview
+
+Experience Baseline in action at **[https://baseline-eta-one.vercel.app/](https://baseline-eta-one.vercel.app/)**
+
+The live preview is deployed on **Vercel** and showcases the full interactive experience of the tennis club platform. Visit to see:
+- ✨ Responsive design in action across all devices
+- ⚡ Fast performance with optimized assets
+- 🏆 Professional branding and visual hierarchy
+- 🎯 Smooth scroll interactions and animations
+- 📱 Mobile-first experience optimized for all screen sizes
 
 ## Tech Stack
 
@@ -14,6 +25,7 @@ Baseline is a dynamic web platform designed to represent a premier tennis club a
 - **JavaScript:** 62.1% of codebase
 - **Smooth Scrolling:** Lenis for enhanced UX
 - **Type Safety:** TypeScript support
+- **Deployment:** Vercel
 
 ## Quick Start
 
@@ -63,7 +75,7 @@ Baseline/
 
 ## Landing Page Design
 
-The Baseline landing page is designed to deliver an immediate, polished impression while guiding visitors quickly to the most important actions (book a court, join the academy, or contact the club). Below are the core design decisions and implementation notes.
+The Baseline landing page is designed to deliver an immediate, polished impression while guiding visitors quickly to the most important actions (book a court, join the academy, or contact the club).
 
 - Design goals
   - Present a premium, athletic brand that feels energetic and professional.
@@ -72,7 +84,7 @@ The Baseline landing page is designed to deliver an immediate, polished impressi
   - Ensure accessibility and readable information hierarchy.
 
 - Visual layout
-  - Hero section: A full-width hero with a large, immersion-style background image or video showing courts and coaching sessions. Overlaid content includes a concise headline, a short subheading, and two primary CTAs ("Book a Court" and "Join the Academy").
+  - Hero section: A full-width hero with a large, immersion-style background image or video showing courts and coaching sessions. Overlaid content includes a concise headline, a short subheading, and primary CTAs.
   - Feature strips: Horizontal sections to highlight coaching programs, court facilities, membership benefits, and upcoming events. Each strip pairs imagery with a short descriptive card.
   - Court galleries: A responsive image grid showcasing courts, with lightbox-style preview on larger screens.
   - Testimonials & social proof: A rotating carousel or grid with member quotes and logos/figures (e.g., "9K+ members").
@@ -81,7 +93,7 @@ The Baseline landing page is designed to deliver an immediate, polished impressi
 - Typography & colors
   - Typeface: Clean, geometric sans-serif for headings, paired with a readable body font for long-form text.
   - Scale: Clear typographic scale with prominent H1/H2 for the hero and concise body text for cards and descriptions.
-  - Color palette: A primary accent color (energetic/hot color or club brand color) combined with deep neutrals for contrast and white/soft neutrals for spacing. Accent color is used sparingly for CTAs and interactive elements.
+  - Color palette: A primary accent color (energetic/hot color or club brand color) combined with deep neutrals for contrast and white/soft neutrals for spacing. Accent color is used sparingly for high-impact CTAs.
 
 - Imagery & assets
   - Focus on high-quality photography emphasizing motion and coaching moments.
